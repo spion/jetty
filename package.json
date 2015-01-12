@@ -1,7 +1,7 @@
 {
-  "name": "jetty",
+  "name": "jetty-plus",
   "version": "0.2.1",
-  "description": "TTY, you so fly",
+  "description": "A fork of jetty with some extra commands and fixes.",
   "main": "index.js",
   "dependencies": {},
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fknsrs/jetty.git"
+    "url": "git://github.com/spion/jetty.git"
   },
   "keywords": [
     "tty",
